@@ -1,5 +1,12 @@
-# WebHow Leaning System (User MicroService)
-this MicroService Manage User and Authentication
+# WebHow  (User MicroService)
+this microservice manage user and authentication logic
+
+- Language : Typescript
+- Framework : NestJs
+- MessageBroker : RabbitMq
+- Database: Postgres
+- Orm: TypeOrm
+
 ## License
 
 Developer:  Akbar Ahmadi Saray
