@@ -10,3 +10,9 @@ this microservice manage user and authentication logic
 ## License
 
 Developer:  Akbar Ahmadi Saray
+
+
+## Microservice Pattern
+#### User
+- { controller: 'user', action: 'findById' }
+- { controller: 'user', action: 'findByUsername' }
